@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Wagner Vieira Conti ✌️
 
-![wagnerconti4 GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerconti4&show_icons=true&theme=radical)
-
 ### Tecnoligias que eu utilizo/utilizei
 
 <div style="display: inline_block"><br/> 
